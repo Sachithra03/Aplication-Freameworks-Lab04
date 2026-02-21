@@ -1,0 +1,21 @@
+{
+  "name": "aplication-freameworks-lab04",
+  "version": "1.0.0",
+  "description": "SE3040 NodeJS & GitHub Flow Lab",
+  "keywords": [],
+  "homepage": "https://github.com/Sachithra03/Aplication-Freameworks-Lab04#readme",
+  "bugs": {
+    "url": "https://github.com/Sachithra03/Aplication-Freameworks-Lab04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachithra03/Aplication-Freameworks-Lab04.git"
+  },
+  "license": "ISC",
+  "author": "sachithra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
