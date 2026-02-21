@@ -1,0 +1,1 @@
+console.log("SE3040 NodeJS Lab is working!");
