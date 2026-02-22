@@ -1,4 +1,4 @@
-const condition = true; // change to false to test error case
+const condition = false; // change to false to test error case
 
 const myPromise = new Promise((resolve, reject) => {
   if (condition) {
